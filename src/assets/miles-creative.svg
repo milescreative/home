@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="128.66809mm"
-   height="18.716009mm"
-   viewBox="0 0 128.66809 18.716009"
+   width="128.31169mm"
+   height="18.359943mm"
+   viewBox="0 0 128.31169 18.359943"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -18,27 +18,19 @@
        id="swatch9"><stop
          style="stop-color:#006497;stop-opacity:1;"
          offset="0"
-         id="stop9" /></linearGradient><rect
-       x="50.661751"
-       y="208.97974"
-       width="732.4845"
-       height="179.42703"
-       id="rect1-5-7-3" /></defs><g
+         id="stop9" /></linearGradient></defs><g
      id="layer1"
-     transform="translate(-18.951903,-179.24501)"><path
+     transform="translate(-19.130103,-179.42308)"><path
        id="rect3-3-9"
-       style="fill:#006497;fill-opacity:1;stroke:#0091db;stroke-width:0.356618;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       style="fill:#006497;fill-opacity:1;stroke:none;stroke-width:0.500858;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        d="m -91.806823,119.77245 c 1.480505,-8e-5 2.680696,1.20016 2.680563,2.68066 0,0 -0.609462,13.26642 -4.06e-4,13.69206 0.609056,0.42564 58.258459,0 58.258459,0 l 0.365751,1.97789 h -60.221647 l -64.389717,-0.0223 c -1.45478,0.18947 -2.78773,-0.83621 -2.97731,-2.29098 l 2.9e-4,-2.29098 -2e-4,-2.2915 -2.3e-4,-2.29098 2.9e-4,-2.29098 -2.3e-4,-2.29098 2.9e-4,-2.29098 c 0,0 -0.0102,-0.5532 -0.0154,-1.11617 -0.005,-0.56078 -1.5e-4,-1.14096 0.015,-1.17444 9e-5,-2.1e-4 5.4e-4,-0.001 0.001,-0.002 0.0233,-0.0279 0.29045,-0.0279 0.68968,-0.0316 0.406,-0.004 0.94352,-0.001 1.47977,0.004 1.07249,0.01 2.1399,0.0293 2.1399,0.0293 h 4.31033 8.62067 17.24132 17.24081 z"
-       transform="matrix(-0.99797877,0,-0.05325112,0.99859641,-3.9554941,59.853588)" /><text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,8.5786934,121.307)"
+       transform="matrix(-0.99797877,0,-0.05325112,0.99859641,-3.9554941,59.853588)" /><path
+       d="m 29.802013,182.62519 -1.797756,6.40081 h -0.07902 l -1.817512,-6.40081 h -2.568223 v 12.24846 h 2.568223 l -0.158044,-6.83543 h 0.07902 l 1.165579,4.10916 h 1.402645 l 1.165578,-4.10916 h 0.07902 l -0.158044,6.83543 h 2.667001 v -12.24846 z m 10.865545,0.86925 0.1778,-2.86456 h -2.943579 l -0.1778,2.86456 z m 3.002846,11.37921 0.237067,-2.09409 h -3.220156 v -7.90223 H 34.7804 l -0.217311,1.99531 3.299179,0.15805 v 5.74887 h -3.220157 v 2.09409 z m 10.213613,0 0.237066,-2.09409 h -2.943579 v -11.75457 h -5.472293 l -0.237066,2.01507 2.884313,0.15805 v 9.58145 h -2.923823 v 2.09409 z m 10.549456,0.23706 0.25682,-2.3114 c -3.990623,-0.0593 -5.47229,-0.51364 -5.788379,-2.17311 l 6.025446,-0.15805 c 0.3556,-3.65478 -0.968023,-5.8674 -3.83258,-5.8674 -2.667,0 -5.017913,2.37067 -5.017913,5.49205 0,3.25967 1.679224,5.19571 8.356606,5.01791 z m -3.852336,-8.23807 c 1.126066,0 1.580443,0.73096 1.63971,2.03482 -1.027287,0.0198 -2.469444,0.079 -3.3782,0.0988 0.09878,-1.58044 0.67169,-2.1336 1.73849,-2.1336 z m 14.263502,-2.1336 c -5.353759,-0.31609 -7.349069,1.34338 -7.349069,3.2004 0,2.52871 5.096933,2.94358 5.096933,4.03014 0,0.67169 -1.205087,0.84949 -4.820357,0.67169 l -0.09878,2.37067 c 5.926669,0.19755 7.862712,-1.30387 7.862712,-3.14114 0,-2.4892 -5.136446,-3.18065 -5.136446,-4.20794 0,-0.63217 1.20509,-0.80997 4.54378,-0.5334 z"
        id="text1-8-3-8"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.6667px;font-family:'Operator Mono';-inkscape-font-specification:'Operator Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect1-5-7-3);fill:#006497;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:7.2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"><tspan
-         x="50.662109"
-         y="278.04717"
-         id="tspan1">Miles</tspan></text><g
+       style="font-size:74.6667px;font-family:'Operator Mono';-inkscape-font-specification:'Operator Mono, Normal';white-space:pre;fill:#006497;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       aria-label="Miles" /><g
        id="g46"
-       transform="matrix(0.99736903,0,0,0.99736903,0.87303682,1.044145)"><path
+       transform="matrix(0.99736903,0,0,0.99736903,0.34387015,1.044145)"><path
          style="font-style:italic;font-weight:bold;font-size:74.6667px;font-family:Alegreya;-inkscape-font-specification:'Alegreya, Bold Italic';white-space:pre;fill:#f9f9f9;stroke:#f9f9f9;stroke-width:1.53071;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
          d="m 292.05958,245.75456 q 0,3.28534 -1.86667,5.824 -1.792,2.464 -5.74934,4.62934 -3.95733,2.09067 -10.528,4.18133 0,3.43467 1.26933,5.45067 1.26933,2.016 3.50934,2.016 2.09066,0 4.032,-1.49333 2.016,-1.568 3.50933,-4.40534 l 1.344,0.14934 2.31467,2.912 q -1.344,2.83733 -3.65867,5.07734 -2.31467,2.24 -5.07733,3.584 -2.688,1.26933 -5.45067,1.26933 -4.704,0 -7.54134,-3.50933 -2.76267,-3.50934 -2.76267,-9.48268 0,-4.55466 1.49334,-8.66133 1.568,-4.18134 4.18133,-7.46667 2.688,-3.28534 6.04801,-5.15201 3.43466,-1.94133 7.09333,-1.94133 3.65867,0 5.74934,1.86667 2.09067,1.792 2.09067,5.152 z"
          transform="matrix(0.26458333,0,0,0.26458333,66.757964,121.64032)"
